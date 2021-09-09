@@ -1,0 +1,25 @@
+.campo {
+  color:rgb(0, 0, 0);
+  background-color:#ffa;
+}
+
+#contenedorform {
+  width:500px; 
+  margin-left:20px; 
+  margin-top:10px;
+  background-color:#ffe;
+  border:1px solid #CCC;
+  padding:10px 0 10px 0;
+}
+
+#contenedorform form label {
+  width:120px; 
+  float:left;
+  font-family:verdana;
+  font-size:14px;
+}
+.botonsubmit {
+  color:rgb(7, 7, 7);
+  background-color:rgb(255, 255, 255);
+  border: 1px solid rgb(36, 28, 28);
+}
