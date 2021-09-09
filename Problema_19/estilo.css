@@ -1,0 +1,5 @@
+body {
+  background-image:url(YungLean.jpg);
+  background-repeat:no-repeat;
+  background-attachment:scroll;/*luego probar con fixed*/
+}
