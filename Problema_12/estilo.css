@@ -1,0 +1,13 @@
+.pregunta {
+  font-family:verdana;
+  font-size:14px;
+  font-style:italic;
+  color:#7676ca;
+}
+.respuesta {
+  font-family:verdana;
+  font-size:12px;
+  font-style:normal;
+  text-align:justify;
+  color:#8a3e3e;
+}
